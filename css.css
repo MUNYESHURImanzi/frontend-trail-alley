@@ -1,0 +1,35 @@
+
+
+input {
+  width: 70%;
+  height: 50px;
+  text-transform: unset;
+  background: transparent;
+  margin: 20px 0px 20px;
+}
+
+.register-form {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  width: 15cm;
+  height: 25cm;
+ 
+}
+button {
+  width: 60%;
+  height: 40px;
+  background-color: #4a88d1;
+  box-shadow: 1px 1px 1px 1px;
+}
+p {
+}
+.check {
+  width: 20px;
+  height: 25px;
+}
+.row1 {
+  display: inline;
+}
+

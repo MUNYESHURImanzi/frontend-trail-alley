@@ -1,0 +1,15 @@
+body{
+    display: contents;
+    width: 100%;
+}
+video{
+    width: 50%;
+    height: 200px;
+}
+audio{
+    position: relative;
+    width: 40%;
+    margin: 100px;
+
+    background-color: black;
+}
